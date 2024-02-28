@@ -1,0 +1,34 @@
+{"action":"request","level":"info","method":"GET","msg":"Received a request","path":"/","time":"2024-02-01T15:29:40+06:00"}
+{"action":"response","level":"info","msg":"Request processed successfully","status":200,"time":"2024-02-01T15:29:40+06:00"}
+{"action":"request","level":"info","method":"GET","msg":"Received a request","path":"/favicon.ico","time":"2024-02-01T15:29:40+06:00"}
+{"action":"error","error":"Rate limit exceeded","level":"error","msg":"Rate limit exceeded","time":"2024-02-01T15:29:40+06:00"}
+{"action":"request","level":"info","method":"GET","msg":"Received a request","path":"/","time":"2024-02-01T15:29:43+06:00"}
+{"action":"response","level":"info","msg":"Request processed successfully","status":200,"time":"2024-02-01T15:29:43+06:00"}
+{"action":"request","level":"info","method":"GET","msg":"Received a request","path":"/favicon.ico","time":"2024-02-01T15:29:43+06:00"}
+{"action":"error","error":"Rate limit exceeded","level":"error","msg":"Rate limit exceeded","time":"2024-02-01T15:29:43+06:00"}
+{"action":"request","level":"info","method":"GET","msg":"Received a request","path":"/","time":"2024-02-01T15:29:44+06:00"}
+{"action":"error","error":"Rate limit exceeded","level":"error","msg":"Rate limit exceeded","time":"2024-02-01T15:29:44+06:00"}
+{"action":"request","level":"info","method":"GET","msg":"Received a request","path":"/favicon.ico","time":"2024-02-01T15:29:44+06:00"}
+{"action":"error","error":"Rate limit exceeded","level":"error","msg":"Rate limit exceeded","time":"2024-02-01T15:29:44+06:00"}
+{"action":"request","level":"info","method":"GET","msg":"Received a request","path":"/favicon.ico","time":"2024-02-01T15:29:46+06:00"}
+{"action":"response","level":"info","msg":"Request processed successfully","status":200,"time":"2024-02-01T15:29:46+06:00"}
+{"action":"request","level":"info","method":"GET","msg":"Received a request","path":"/","time":"2024-02-01T15:29:49+06:00"}
+{"action":"response","level":"info","msg":"Request processed successfully","status":200,"time":"2024-02-01T15:29:49+06:00"}
+{"action":"request","level":"info","method":"GET","msg":"Received a request","path":"/favicon.ico","time":"2024-02-01T15:29:49+06:00"}
+{"action":"error","error":"Rate limit exceeded","level":"error","msg":"Rate limit exceeded","time":"2024-02-01T15:29:49+06:00"}
+{"action":"request","level":"info","method":"GET","msg":"Received a request","path":"/","time":"2024-02-01T15:33:38+06:00"}
+{"action":"response","level":"info","msg":"Request processed successfully","status":200,"time":"2024-02-01T15:33:38+06:00"}
+{"action":"request","level":"info","method":"GET","msg":"Received a request","path":"/favicon.ico","time":"2024-02-01T15:33:38+06:00"}
+{"action":"error","error":"Rate limit exceeded","level":"error","msg":"Rate limit exceeded","time":"2024-02-01T15:33:38+06:00"}
+{"action":"request","level":"info","method":"POST","msg":"Received a request","path":"/add-task","time":"2024-02-01T15:33:45+06:00"}
+{"action":"response","level":"info","msg":"Request processed successfully","status":200,"time":"2024-02-01T15:33:45+06:00"}
+{"action":"request","level":"info","method":"GET","msg":"Received a request","path":"/favicon.ico","time":"2024-02-01T15:33:45+06:00"}
+{"action":"error","error":"Rate limit exceeded","level":"error","msg":"Rate limit exceeded","time":"2024-02-01T15:33:45+06:00"}
+{"action":"request","level":"info","method":"POST","msg":"Received a request","path":"/add-task","time":"2024-02-01T15:34:17+06:00"}
+{"action":"response","level":"info","msg":"Request processed successfully","status":200,"time":"2024-02-01T15:34:17+06:00"}
+{"action":"request","level":"info","method":"GET","msg":"Received a request","path":"/favicon.ico","time":"2024-02-01T15:34:17+06:00"}
+{"action":"error","error":"Rate limit exceeded","level":"error","msg":"Rate limit exceeded","time":"2024-02-01T15:34:17+06:00"}
+{"action":"request","level":"info","method":"GET","msg":"Received a request","path":"/","time":"2024-02-02T01:01:07+06:00"}
+{"action":"response","level":"info","msg":"Request processed successfully","status":200,"time":"2024-02-02T01:01:07+06:00"}
+{"action":"request","level":"info","method":"GET","msg":"Received a request","path":"/favicon.ico","time":"2024-02-02T01:01:07+06:00"}
+{"action":"error","error":"Rate limit exceeded","level":"error","msg":"Rate limit exceeded","time":"2024-02-02T01:01:07+06:00"}
